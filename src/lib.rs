@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 //! SigmaOS-data-governance: data governance model.
 //!
 //! Real implementation: policies, roles, compliance, and validation.
